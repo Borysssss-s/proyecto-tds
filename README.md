@@ -29,7 +29,4 @@ Linux / macOS:
 
 ## Documentación
 
-La documentación del proyecto está en la carpeta [`docs/`](docs/):
-
-- [Historias de usuario](docs/historias-usuario.md)
-- [Modelo del dominio](docs/modelo-dominio.md)
+La documentación del proyecto está en la carpeta [`docs/`](docs/).
