@@ -1,0 +1,26 @@
+# Maven
+target/
+
+# Base de datos local (cada uno genera la suya)
+*.db
+
+# Logs y ficheros de la JVM
+*.log
+hs_err_pid*
+replay_pid*
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
